@@ -12,6 +12,8 @@
         public DateTime Target_date { get; set; }
 
         public Preference preference { get; set; }
-        
+   
+            public int demoForGit { get; set; }
+
     }
 }

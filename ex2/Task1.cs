@@ -13,8 +13,9 @@
 
         public Preference preference { get; set; }
    
-            public int demoForGit1 { get; set; }
-        public int demoForGit2 { get; set; }
+        //    public int demoForGit1 { get; set; }
+        //public int demoForGit2 { get; set; }
+        //jkibhgjib
 
     }
 }

@@ -14,6 +14,7 @@
         public Preference preference { get; set; }
         //public int demoForGit { get; set; }
         public int MyProperty { get; set; }
+        //public int demoForGit2 { get; set; }
 
     }
 }
